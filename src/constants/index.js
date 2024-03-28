@@ -134,7 +134,7 @@ export const collabContent = [
   {
     id: "0",
     title: "Seamless Integration",
-    text: collabText,
+    // text: collabText,
   },
   {
     id: "1",
@@ -269,17 +269,17 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Writing Code",
+    text: "Lets users quickly find answers to their coding questions and write their own code with our compiler",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
-    iconUrl: benefitIcon4,
+    iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Design anything",
+    text: "Lets users design their solutions, roadmaps, and flow charts easily integrated with AI.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
